@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sh1vamTiwari
-- 👀 I’m interested in sports 
-- 🌱 I’m currently learning git
+- 👀 I’m interested in AI 
+- 🌱 I’m currently learning computervision 
 - 💞️ I’m looking to collaborate on how to create my projects
-- 📫 How to reach me 
 - 😄 Pronouns: Gymnast
 - ⚡ Fun fact: I am very serious when someone crack jokes
 
